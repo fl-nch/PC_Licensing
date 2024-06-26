@@ -80,8 +80,8 @@ Chained API calls to extract Prisma Cloud licensing utilisation for storage and 
 
 ### Built With
 
-<p Python 3.11 /p>
-<p IDLE /p>
+<p>Python 3.11</p>
+<p>IDLE</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

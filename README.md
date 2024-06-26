@@ -30,9 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/fl-nch/PC_Licensing">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Prisma Cloud Licensing Automation</h3>
 

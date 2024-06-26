@@ -18,14 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -80,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Basic series of API calls to extract 
+Chained API calls to extract Prisma Cloud licensing utilisation for storage and further analytics
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -90,16 +90,16 @@ Chained API calls to extract Prisma Cloud licensing utilisation for storage and 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Download the Python script
-Generate Prisma Cloud access key and secret per https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/create-access-keys#idb225a52a-85ea-4b0c-9d69-d2dfca250e16
-Add details to username, password variables
-Identify your Prisma Cloud tenant base API url per https://pan.dev/prisma-cloud/api/cspm/api-urls/
-Add details to prisma_base_api_url variable
-Output is a json file of license utilisation of each cloud account
+<p>Download the Python script</p>
+<p>Generate Prisma Cloud access key and secret per https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/create-access-keys#idb225a52a-85ea-4b0c-9d69-d2dfca250e16</p>
+<p>Add details to username, password variables</p>
+<p>Identify your Prisma Cloud tenant base API url per https://pan.dev/prisma-cloud/api/cspm/api-urls/</p>
+<p>Add details to prisma_base_api_url variable</p>
+<p>Output is a json file of license utilisation of each cloud account</p>
 
 ### Prerequisites
 
-Python 3
+<p>Python 3</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ Python 3
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-python .\PC-retrieve_license_usage.py
+<p>python .\PC-retrieve_license_usage.py</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
